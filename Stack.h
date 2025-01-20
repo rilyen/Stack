@@ -5,8 +5,7 @@
  * Class Invariant: LIFO order
  *                  Top of Stack located at the back of SHSL list.
  *
- * Author:  April Nguyen    301314527
- *          Anthony Nguyen  301545011
+ * Author:  
  * Date:    October 13, 2023
  */
  
